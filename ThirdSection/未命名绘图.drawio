@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T13:03:47.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 SLBrowser/9.0.0.10191 SLBChan/111" etag="eEp8kgF0g115nyQlw78b" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T14:28:06.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 SLBrowser/9.0.0.10191 SLBChan/111" etag="4K4umANo6ba1SlFm6jGJ" version="22.1.8" type="github" pages="2">
   <diagram name="第 1 页" id="98NZelkwkcNiqclcnh58">
     <mxGraphModel dx="2782" dy="1237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -90,6 +90,17 @@
             <mxPoint x="-247" y="323" as="sourcePoint" />
             <mxPoint x="-314" y="323" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zQ3jkkxXhLHcW-D2W3KZ" name="第 2 页">
+    <mxGraphModel dx="1006" dy="894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DWMN2ucpjqmAxmqvuODY-1" value="原始信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="313" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
