@@ -1,59 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T11:40:35.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 SLBrowser/9.0.0.10191 SLBChan/111" etag="Lv_RTV_6l4lnJnVtVnJX" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T13:03:47.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 SLBrowser/9.0.0.10191 SLBChan/111" etag="eEp8kgF0g115nyQlw78b" version="22.1.8" type="github">
   <diagram name="第 1 页" id="98NZelkwkcNiqclcnh58">
-    <mxGraphModel dx="2207" dy="873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="1237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-257" y="232" width="668" height="489" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-34" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;" vertex="1" parent="1">
+          <mxGeometry x="-36" y="482" width="816" height="228" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;铁水温度&lt;br&gt;单变量时序预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="251" width="815" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;铁水温度&lt;br&gt;单变量时序预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="20" y="350" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;铁水温度&lt;br&gt;多变量时序预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;铁水温度&lt;br&gt;多变量时序预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="20" y="550" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="50" height="170" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#4d4d4d;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="46" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分解&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分解&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="274" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="335" width="120" height="60" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="345" width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="407" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#4d4d4d;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="50" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据预处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据预处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;特征提取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;特征提取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="120" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="237" y="641" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;探索性数据分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="450" width="150" height="60" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;探索性数据分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-494" y="290" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="430" width="50" height="100" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#4d4d4d;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="417" width="50" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据情况说明&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据情况说明&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-219" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-14" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;strokeColor=#4d4d4d;" vertex="1" parent="1">
+          <mxGeometry x="431" y="300" width="31" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实验一：不同预测方法对比&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="478.5" y="310" width="254" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实验二：不同分解方式对比&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="481.5" y="389" width="251" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;strokeColor=#4d4d4d;" vertex="1" parent="1">
+          <mxGeometry x="431" y="524" width="31" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实验三：不同特征提取方法对比&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="476" y="497" width="269" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实验四：不同步长对比&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="476" y="575.5" width="263" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实验五：不同预测方法对比&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="476" y="654" width="262" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;预实验1：缺失值、异常值处理&amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;预实验2：通过三种方式进行特征提取&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4d4d4d;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-482" y="444" width="374" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-33" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#4d4d4d;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-320" y="479" as="sourcePoint" />
-            <mxPoint x="-220" y="479.40999999999997" as="targetPoint" />
+            <mxPoint x="-437" y="368" as="sourcePoint" />
+            <mxPoint x="-437" y="428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OGL1Q8XWRxWzxenanZOr-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="431" y="300" width="60" height="367" as="geometry" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-35" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#4d4d4d;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-107" y="475.23" as="sourcePoint" />
+            <mxPoint x="-34" y="475.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-38" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#4d4d4d;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-247" y="323" as="sourcePoint" />
+            <mxPoint x="-314" y="323" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
