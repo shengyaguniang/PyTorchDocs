@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T11:22:15.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 SLBrowser/9.0.0.10191 SLBChan/111" version="22.1.8" etag="8iHMlNslwyMl_NzfTBEI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T11:32:54.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 SLBrowser/9.0.0.10191 SLBChan/111" etag="wJFgbCf5selWlWsABVzt" version="22.1.8" type="github">
   <diagram name="第 1 页" id="98NZelkwkcNiqclcnh58">
-    <mxGraphModel>
+    <mxGraphModel dx="2207" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;铁水温度&lt;br&gt;单变量时序预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;铁水温度&lt;br&gt;多变量时序预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="550" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分解&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据预处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;特征提取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;探索性数据分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="430" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据情况说明&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGL1Q8XWRxWzxenanZOr-14" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-320" y="479" as="sourcePoint" />
+            <mxPoint x="-220" y="479.40999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
